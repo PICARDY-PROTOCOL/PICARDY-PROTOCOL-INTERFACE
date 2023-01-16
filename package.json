@@ -1,5 +1,5 @@
 {
-  "name": "picardy-protocol-interface",
+  "name": "@picardy-protocol/interface",
   "version": "1.0.0",
   "description": "Picardy Protocol interface to interact with the entire automated royalty sale smart contracts",
   "scripts": {
@@ -11,5 +11,13 @@
     "smartContractAutomation"
   ],
   "author": "Joshua Obigwe (blok_hamster)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PICARDY-PROTOCOL/PICARDY-PROTOCOL-INTERFACE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PICARDY-PROTOCOL/PICARDY-PROTOCOL-INTERFACE/issues"
+  },
+  "homepage": "https://github.com/PICARDY-PROTOCOL/PICARDY-PROTOCOL-INTERFACE#readme"
 }
