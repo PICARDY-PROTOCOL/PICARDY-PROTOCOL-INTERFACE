@@ -31,4 +31,6 @@ interface IRoyaltyAutomationRegistrar {
     function resetAutomation(RegistrationDetails memory details) external;
 
     function getRegisteredDetails(address royaltyAddress) external view returns(RegisteredDetails memory);
+
+    function toggleAutomation(address royaltyAddress, uint _royaltyType) external;
 }
